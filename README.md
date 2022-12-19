@@ -1,4 +1,8 @@
 ### Olá eu sou Luís Fernando de Sá Amorim 👋
+- 📚 Ciência da Computação - Universidade Federal do Ceará/Campus Quixadá
+- 🎉 07 de Março de 2000
+
+##
 
 <div align="center">
   <a href="https://github.com/MoonCancerBR">
